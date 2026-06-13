@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "timestamp": "2026-06-13T14:21:57.136674",
+  "date": "2026-06-13 14:21:57",
+  "tasks_count": 1,
+  "notes_count": 0,
+  "tasks": [
+    {
+      "id": "task_1781347889",
+      "title": "what are supercaps",
+      "description": "",
+      "status": "pending",
+      "priority": "medium",
+      "created_at": "2026-06-13T14:21:29.678069",
+      "due_date": null
+    }
+  ],
+  "notes": []
+}
